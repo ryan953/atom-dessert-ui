@@ -1,5 +1,5 @@
 {
-  "name": "dessert-ryan",
+  "name": "atom-dessert-ui",
   "theme": "syntax",
   "version": "0.0.0",
   "description": "A short description of your syntax theme",
@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/dessert-ryan",
+  "repository": "https://github.com/ryan953/atom-dessert-ui",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

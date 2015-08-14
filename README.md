@@ -1,4 +1,4 @@
-# dessert-ryan theme
+# atom-dessert-ui theme
 
 A short description of your theme.
 
